@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+      "configurations": [
+        {
+          "name": "Launch Mobile",
+          "type": "dart",
+          "request": "launch",
+          "args": [
+            // "--release"
+          ]
+        }
+      ]
+    }
